@@ -18,12 +18,5 @@ p {
     font-size: 20px;
 }
 body {
-    background-image: url(22200000/Space-art-space-22238763-1920-1200.jpg);
-} 
-p {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+    background-image: url("gradient_bg.png");
 }
-p.double {border-style: double;}
