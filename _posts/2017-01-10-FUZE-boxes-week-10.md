@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Making a blog</td>
+    <td>FUZE boxes week 10</td>
     <td>Date</td>
-    <td>2211/16</td>
+    <td>22/11/16</td>
   </tr>
 </table>
 
