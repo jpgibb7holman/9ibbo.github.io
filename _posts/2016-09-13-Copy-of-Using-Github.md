@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Fuze boxes week 2</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>13/09/16</td>
   </tr>
 </table>
@@ -18,17 +18,17 @@ published: true
 
 <table>
   <tr>
-    <th>Starting point:</td>
+    <th>Starting point:</th>
     <td>Setting up the Fuze boxes </td>
   </tr>
   <tr>
     <td>Target for </td>
-    <td>Understanding the basics - BASIC</td>
+    <th>Understanding the basics - BASIC</th>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes as I now know how to make the Fuze box say something and change the colour of the ink.</td>
+    <th>Yes as I now know how to make the Fuze box say something and change the colour of the ink.</th>
   </tr>
 </table>
 
@@ -38,10 +38,10 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>It was very effective to copy the manual exactly as it said to do and then solve any problem that arised with trial and error. I also tried to not give up and ask for help if I needed it.</td>
+    <th>It was very effective to copy the manual exactly as it said to do and then solve any problem that arised with trial and error. I also tried to not give up and ask for help if I needed it.</th>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
