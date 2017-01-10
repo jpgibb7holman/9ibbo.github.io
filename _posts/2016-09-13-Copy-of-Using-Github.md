@@ -18,7 +18,7 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</td>
     <td>Setting up the Fuze boxes </td>
   </tr>
   <tr>
